@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>wikipedia-link-extractor</name>
+	<name>wikidump-data-extractor</name>
 	<url>https://github.com/threadswarm/wikidump-data-extractor</url>
 
 	<properties>
